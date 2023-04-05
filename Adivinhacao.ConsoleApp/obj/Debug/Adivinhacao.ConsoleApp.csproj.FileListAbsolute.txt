@@ -1,0 +1,8 @@
+D:\Projetos C#\Exercicios-Academia\Adivinhacao.ConsoleApp\Adivinhacao.ConsoleApp\bin\Debug\Adivinhacao.ConsoleApp.exe.config
+D:\Projetos C#\Exercicios-Academia\Adivinhacao.ConsoleApp\Adivinhacao.ConsoleApp\bin\Debug\Adivinhacao.ConsoleApp.exe
+D:\Projetos C#\Exercicios-Academia\Adivinhacao.ConsoleApp\Adivinhacao.ConsoleApp\bin\Debug\Adivinhacao.ConsoleApp.pdb
+D:\Projetos C#\Exercicios-Academia\Adivinhacao.ConsoleApp\Adivinhacao.ConsoleApp\obj\Debug\Adivinhacao.ConsoleApp.csproj.AssemblyReference.cache
+D:\Projetos C#\Exercicios-Academia\Adivinhacao.ConsoleApp\Adivinhacao.ConsoleApp\obj\Debug\Adivinhacao.ConsoleApp.csproj.SuggestedBindingRedirects.cache
+D:\Projetos C#\Exercicios-Academia\Adivinhacao.ConsoleApp\Adivinhacao.ConsoleApp\obj\Debug\Adivinhacao.ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Projetos C#\Exercicios-Academia\Adivinhacao.ConsoleApp\Adivinhacao.ConsoleApp\obj\Debug\Adivinhacao.ConsoleApp.exe
+D:\Projetos C#\Exercicios-Academia\Adivinhacao.ConsoleApp\Adivinhacao.ConsoleApp\obj\Debug\Adivinhacao.ConsoleApp.pdb
